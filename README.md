@@ -11,6 +11,7 @@ A list of resources for current and aspiring data science managers.
 ### Organizational Structure
 * [Models for Integrating Data Science Teams Within Organizations](https://medium.com/@djpardis/models-for-integrating-data-science-teams-within-organizations-7c5afa032ebd) by Pardis Noorzad
 * [Why Data Science Teams Need Generalists, Not Specialists](https://hbr.org/2019/03/why-data-science-teams-need-generalists-not-specialists) by Eric Colson
+* [Curiosity-Driven Data Science](https://hbr.org/2018/11/curiosity-driven-data-science) by Eric Colson
 * [How to Structure a Data Science Team](https://www.altexsoft.com/blog/datascience/how-to-structure-data-science-team-key-models-and-roles/) by Altexsoft
 
 ### Aspiring/Incoming Managers
@@ -18,7 +19,7 @@ A list of resources for current and aspiring data science managers.
 * [So You’re Going To Manage a Data Science Team](https://towardsdatascience.com/so-youre-going-to-manage-a-data-science-team-31f075809ffd) by Rui Carmo
 
 ### Executives
-* [Intro to Data Science for Managers](https://www.kdnuggets.com/2018/11/intro-data-science-managers.html)
+* [Intro to Data Science for Managers](https://www.kdnuggets.com/2018/11/intro-data-science-managers.html) by ActiveWizards
 
 ## Books
 
