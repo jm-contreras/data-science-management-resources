@@ -18,3 +18,7 @@ A list of resources for current and aspiring data science managers.
 ## Courses
 
 * [Executive Data Science](https://www.coursera.org/specializations/executive-data-science) by Coursera
+
+## Talks
+
+TODO
