@@ -42,6 +42,10 @@ A list of resources for current and aspiring data science managers.
 * [Data Science for Executives](https://www.edx.org/professional-certificate/data-science-executives) by edX
 * [Data Science for Business Leaders](https://www.datacamp.com/courses/data-science-for-managers) by DataCamp
 
+## Leveling Guides
+
+* [Data Science Competency Matrix](https://github.com/angelabassa/data-science-competency-matrix/blob/master/README.md) by Angela Bassa
+
 ## Talks
 
 * [The 3D's of Data Science Leadership](https://docs.google.com/presentation/d/16tB1yMTITL7y3HiyBQgr7uumRRvwnD032DKA-KjMQhc/edit?usp=sharing) by Juan Manuel Contreras
