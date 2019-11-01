@@ -44,4 +44,4 @@ A list of resources for current and aspiring data science managers.
 
 ## Talks
 
-TODO
+* [The 3D's of Data Science Leadership](https://docs.google.com/presentation/d/16tB1yMTITL7y3HiyBQgr7uumRRvwnD032DKA-KjMQhc/edit?usp=sharing) by Juan Manuel Contreras
