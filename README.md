@@ -14,6 +14,9 @@ A list of resources for current and aspiring data science managers.
 * [Curiosity-Driven Data Science](https://hbr.org/2018/11/curiosity-driven-data-science) by Eric Colson
 * [How to Structure a Data Science Team](https://www.altexsoft.com/blog/datascience/how-to-structure-data-science-team-key-models-and-roles/) by Altexsoft
 
+### Process
+* [Data Science and Agile (What Works, and What Doesn't)](https://eugeneyan.com/2019/01/26/data-science-and-agile-what-works-and-what-doesnt/) by Eugene Yan
+
 ### Aspiring/Incoming Managers
 * [So You Want to Become a Data Science Manager?](https://medium.com/deliberate-data-science/so-you-want-become-a-data-science-manager-4ff9544e6827) by Robert Chang
 * [So You’re Going To Manage a Data Science Team](https://towardsdatascience.com/so-youre-going-to-manage-a-data-science-team-31f075809ffd) by Rui Carmo
