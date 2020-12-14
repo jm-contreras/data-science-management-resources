@@ -27,6 +27,7 @@ A list of resources for current and aspiring data science managers.
 ## Books
 
 * [Building Data Science Teams](http://www.datascienceassn.org/sites/default/files/Building%20Data%20Science%20Teams.pdf) by DJ Patil
+* [Hiring Data Scientists and Machine Learning Engineers](https://leanpub.com/dshiring) by Roy Keyes
 
 ### General
 * [The Manager’s Path](https://www.amazon.com/Managers-Path-Leaders-Navigating-Growth/dp/1491973897) by Camille Fournier
